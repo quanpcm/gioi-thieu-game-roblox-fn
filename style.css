@@ -1,0 +1,71 @@
+*{
+    font-family: "Roboto Slab", serif;
+}
+
+.colored-section {
+    background-color: whitesmoke;
+}
+
+.white-section {
+    margin: 30px;
+}
+
+.text-top{
+    margin-left: 20px;
+    text-align: center;
+}
+
+.text-top-icon1{
+    font-size: 2rem;
+    font: bold;
+}
+
+.button-top {
+    margin-bottom: 10px;
+    margin-left: 20px;
+}
+
+.size-wordd{
+    font-size: 3rem;
+    font: bold;
+}
+
+.col-lg-6 img{
+    height: 300px;
+    width: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.icon-size{
+    font-size: 50px;
+}
+
+.text-icon-bottom-top{
+    font-size: 20px;
+}
+
+.icon-size-icon1{
+    font-size: 10px;
+}
+
+.carousel-item{
+    text-align: center;
+    padding-top: 5rem;
+    padding-bottom: 10rem;
+}
+
+#imge-skibidi{
+    width: 20%;
+    right: 10%;
+}
+
+.word-down-inside{
+    font-size: 30px;
+}
+
+.image-down{
+    width: 20%;
+    right: 10%;
+}
