@@ -1,5 +1,7 @@
 *{
     font-family: "Roboto Slab", serif;
+    padding: 0;
+    margin: 0;
 }
 
 .colored-section {
@@ -68,4 +70,41 @@
 .image-down{
     width: 20%;
     right: 10%;
+}
+
+.color-section-sksisi{
+    background-color: rgb(154, 154, 154);
+}
+.color-arrow{
+    background-color: black;
+    border-radius: 5px;
+}
+
+.color-arrow:hover{
+    background-color: rgba(84, 84, 84, 0.126);
+}
+
+.black-co{
+    color: black;
+}
+
+.black-co:hover{
+    color: rgb(59, 59, 59);
+}
+
+.bruuuuuhuhu{
+    font-size: 30px;
+}
+
+.can-giua{
+    text-align: center;
+}
+
+.custom-image-skibidi{
+    height: 100 !important;
+    width: auto !important;
+}
+
+.uhuhuhuhuhuh{
+    font-size: 20;
 }
